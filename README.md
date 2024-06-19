@@ -1,6 +1,6 @@
-# Smart City 6OCR
+# Smart City - OCR
 
-Project personnel d'une application web et mobile de recette participatif et reseau social.
+Project de formation IA ENGINEER chez OpenClassRoom
 
 # Langage solicité
 
